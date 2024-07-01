@@ -1,4 +1,6 @@
-## Hi, I´m Pedro Noronha! 🤙
+
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-noronha/)
 
 I'm studying systems analysis and development and I'm focused on software development.
@@ -12,8 +14,8 @@ I'm studying systems analysis and development and I'm focused on software develo
 <img align="center" alt="typescript" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-### In love with my family, technology and tennis 🎾
-## In my free time I enjoy competing in tennis tournaments and hanging out with my friends 🍻
+###  ❤️ my family, technology and tennis 🎾
+### In my free time I enjoy competing in tennis tournaments and hanging out with my friends 🍻
 
 #### Feel free to contact me:
 📧 pedro_noronha@outlook.com
