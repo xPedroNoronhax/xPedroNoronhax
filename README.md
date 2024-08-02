@@ -1,5 +1,7 @@
 
 ## Hello, I´m Pedro Noronha!
+## Check out my portfolio!!
+https://pedronoronhadev.vercel.app/
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-noronha/)
 
@@ -20,3 +22,4 @@ I'm studying systems analysis and development and I'm focused on software develo
 
 #### Feel free to contact me:
 📧 pedro_noronha@outlook.com
+
